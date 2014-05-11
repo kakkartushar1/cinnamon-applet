@@ -11,8 +11,8 @@ as hamster@projecthamster.wordpress.com.
 It looks something like this:
 
 pre. cd ~/.local/share/cinnamon/applets/
-ln -s /path/to/the/checkout hamster@projecthamster.wordpress.com
+ln -s /path/to/the/checkout hamster@kakkatushar1
 
 You can also clone git project exactly to applets folder
 
-pre. git clone https://github.com/projecthamster/cinnamon-applet.git ~/.local/share/cinnamon/applets/hamster@projecthamster.wordpress.com
+pre. git clone https://github.com/kakkartushar1/cinnamon-applet.git ~/.local/share/cinnamon/desklets/hamster@kakkartushar1
